@@ -1,9 +1,13 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, I am Chinmay Singh!"
 meta_title: "About"
-description: "this is meta description"
+description: "Developer | Tech Enthusiast | Problem Solver"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+I'm a tech enthusiast, developer, and problem solver with a passion for servers, networking, and building impactful solutions. Currently pursuing my studies at Manipal Institute of Technology, I love experimenting with technology, creating innovative projects, and constantly learning. 
+
+From deploying cloud servers to optimizing backend systems, I enjoy solving complex challenges and sharing my knowledge through projects and collaborations. Beyond tech, I have a strong interest in finance, basketball, history, and geopolitics.
+
+Let's connect and build something amazing! 🚀

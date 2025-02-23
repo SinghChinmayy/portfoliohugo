@@ -1,53 +1,52 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Chinmay Singh - Developer, Tech Enthusiast, and Innovator"
+  content: "Welcome to my portfolio! I'm a passionate developer with a strong interest in technology, networking, and software development. Explore my work, projects, and experiences."
+  image: "/images/profile-banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Explore My Work"
+    link: "/projects"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "What I Do"
+    image: "/images/dev-work.png"
+    content: "I specialize in building scalable applications, working with cloud infrastructure, and exploring cybersecurity and networking. My interests span across software development, system architecture, and automation."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Skilled in Docker, SQL, HTML, CSS, C, and Java."
+      - "Experience in AWS instance deployment and Ubuntu server management."
+      - "Passionate about DevOps and building optimized workflows."
+      - "Working on an FFMPEG frontend in C++."
+      - "Currently learning and improving in various programming domains."
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Learn More"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Projects and Achievements"
+    image: "/images/projects.png"
+    content: "I've worked on various projects ranging from software development to networking solutions. My recent work includes an Identity and Access Management (IAM) system using SQL and a personal portfolio website."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Developed and deployed cloud-based applications."
+      - "Contributed to open-source projects and tech communities."
+      - "Participated in tech and marketing competitions, securing notable positions."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "View My Projects"
+      link: "/projects"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Get in Touch"
+    image: "/images/contact.png"
+    content: "I'm always open to collaborations, tech discussions, and new opportunities. Feel free to reach out and connect with me."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Check out my GitHub for open-source contributions."
+      - "Follow me on LinkedIn and X for updates."
+      - "Let's discuss ideas and innovations!"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Contact Me"
+      link: "/contact"
 ---
+

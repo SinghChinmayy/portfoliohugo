@@ -2,8 +2,7 @@
 title: "The Future of Secure Communication: Quantum Communication and Post-Quantum Cryptography"
 meta_title: "The Future of Secure Communication"
 description: "Understanding the importance of post-quantum cryptography and how it protects against quantum computing threats."
-date: 2025-02-25T00:00:00Z
-image: "/images/image-placeholder.png"
+date: 2025-02-26T00:00:00Z
 categories: ["Technology", "Data", "Cybersecurity", "quantum-computing", "encryption", "data-security", "cryptography"]
 author: "Chinmay Singh"
 tags: ["technology", "Data", "Cybersecurity", "quantum-computing", "encryption", "data-security", "cryptography"]

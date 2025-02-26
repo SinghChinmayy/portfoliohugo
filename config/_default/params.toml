@@ -11,11 +11,11 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Chinmay Singh's Site"
+logo_text = "Chinmay Singh"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
-theme_switcher = true
+theme_switcher = false
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "contact"
-link = "contact"
+link = "link"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search

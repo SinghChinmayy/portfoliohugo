@@ -3,7 +3,6 @@ title: "How to use Git with GitHub."
 meta_title: "use Git with GitHub"
 description: "This guide covered the basics of Git and GitHub to help you track changes, collaborate, and manage versions efficiently.  "
 date: 2025-02-25T00:00:00Z
-image: "/images/image-placeholder.png"
 categories: ["Git", "Git Hub"]
 author: "Chinmay Singh"
 tags: ["Git", "Git Hub"]
